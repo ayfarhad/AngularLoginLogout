@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "management",
+    "type": "java.lang.String",
+    "description": "A description for 'management'"
+  },
+  {
+    "name": "management",
+    "type": "java.lang.String",
+    "description": "A description for 'management'"
+  },
+  {
+    "name": "endpoints",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints'"
+  },
+  {
+    "name": "endpoints",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints'"
+  }
+]}
